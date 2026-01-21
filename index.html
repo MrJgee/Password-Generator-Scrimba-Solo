@@ -4,8 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+    <!-- container to hold all elements -->
+    <div class = "container">
+        <h1>Generate a <br>
+            <span class="gn-heading">random password</span></h1>
+        <p>Never use an insecure password again.</p>
+        <!-- User to input desired length -->
+        <label for="passlength">Enter desired password length (between 10 and 20):</label>
+        <input type="number" id="passlength" name="passlength" min="10" max="20">
+        <hr>
+        <!-- Button to generate password -->
+        <button onclick="passWordGen()">Generate Password</button>
+        <!-- Container for generated passwords -->
+        <div class = "container-footer">
+            <p id="pass1" class="pass">Password 1</p>
+            <p id ="pass2" class="pass">Password 2</p>
+        </div>
+    </div>
+    <!-- Link to js file -->
+    <script src="index.js"></script>
 </body>
 </html>
