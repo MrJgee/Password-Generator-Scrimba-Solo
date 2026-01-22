@@ -28,4 +28,4 @@ View the [live site here!](inserurlhere)
 
 * [Free online course](https://www.youtube.com/watch?v=LzMnsfqjzkA)
 * [Figma File](https://www.figma.com/design/NEj9JDycMjF3XKXq7swoc9/Random-Password-Generator--New-version-?node-id=0-1&p=f&t=OEfeRnHV4RusRoWM-0)
-* [Scrimba site] (https://scrimba.com/fullstack-path-c0fullstack)
+* [Scrimba site](https://scrimba.com/fullstack-path-c0fullstack)
