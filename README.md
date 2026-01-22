@@ -4,9 +4,9 @@ This is the password generator solo project from the full stack developer path s
 ## Live site and Preview
 Here is a preview of the live site:
 
-![Image of the live preview of the site](inserturlhere)
+![Image of the live preview of the site](https://mrjgee.github.io/Password-Generator-Scrimba-Solo/)
 
-View the [live site here!](inserurlhere)
+View the [live site here!](images/Live-site-preview-img.png)
 
 ## My Process and tools
 
